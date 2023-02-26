@@ -12,5 +12,5 @@ npx @wordpress/create-block フォルダ名 --no-plugin
 ,,,
 
 ### 特に活用したサイト
-[公式] https://ja.wordpress.org/team/handbook/block-editor/getting-started/create-block/
-[参考サイト] https://digipress.info/wordpress/tips/overview-create-block-4-0-0/
+[公式] https://ja.wordpress.org/team/handbook/block-editor/getting-started/create-block/  
+[参考サイト] https://digipress.info/wordpress/tips/overview-create-block-4-0-0/  
