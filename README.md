@@ -7,9 +7,9 @@ WordPress、カスタムブロック作成キッド
 
 ### カスタムブロック追加方法
 src/blocksに移動以下のコマンドを入力
-,,,,
+```
 npx @wordpress/create-block フォルダ名 --no-plugin
-,,,
+```
 
 ### 特に活用したサイト
 [公式] https://ja.wordpress.org/team/handbook/block-editor/getting-started/create-block/  
