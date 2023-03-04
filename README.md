@@ -1,5 +1,5 @@
 # template-custom-block
-WordPress、カスタムブロック作成キッド
+WordPress、カスタムブロック作成キット
 
 ### 使用方法
 1. WordPressのpluginフォルダにダウンロードしたフォルダを配置
